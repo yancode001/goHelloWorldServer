@@ -1,6 +1,6 @@
 inputSet:
-  identifier: "nofar_demo"
-  name: "nofar_demo"
+  identifier: "yan_demo"
+  name: "yan_demo"
   orgIdentifier: "default"
   projectIdentifier: "Product_Demos_CIE"
   pipeline:
